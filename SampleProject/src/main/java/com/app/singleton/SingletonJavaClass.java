@@ -7,9 +7,18 @@ public class SingletonJavaClass {
  {
 	 
  }
- 
+ //static block for singleton class initialization
  static
  {
 	 singleton= new SingletonJavaClass();
  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 }
